@@ -63,6 +63,18 @@ This was the last step.
 Now your node16 and discord.js v13 are Installed successfully.
 
 
+### In Package.json........
+
+# Step 1:
+In package.json in the scripts section add a new script 
+```
+"npm start": "node index.js"
+```
+Info: This command will start index.js(main file) whenever npm start is executed
+
+Without this, node 16 won't run and you'll get a error by discord.js module.
+
+
 Having errors?
 Contact us in our official Discord Server - <br>
 🔗 Discord Server - https://discord.gg/pnYKx8Ch4F
