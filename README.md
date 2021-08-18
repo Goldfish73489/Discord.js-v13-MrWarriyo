@@ -64,10 +64,11 @@ Now your node16 and discord.js v13 are Installed successfully.
 
 
 Having errors?
-Contact us in our official Discord Server -
+Contact us in our official Discord Server - <br>
 🔗 Discord Server - https://discord.gg/pnYKx8Ch4F
 
 Mr. Warriyo YouTube Channel - https://youtube.com/c/MrWarriyo
+<br>
 Discord.js v13 Official Playlist - Coming Soon.
 
 
