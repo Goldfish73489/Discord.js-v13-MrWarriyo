@@ -3,6 +3,11 @@
 Info: In this Episode we will tell you "How to setup your Discord.js v13 Bot on ReplIt using Android phone".
 <br>
 <br>
+To run: Type "npm start" in your Terminal.
+<br>
+Incase using Replit, tap on run button. And don't forget to add .replit file in your Project.
+<br>
+<br>
 <h1> Websites we used: </h1>
 <br>
 🔗 Replit.com - https://replit.com
