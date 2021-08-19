@@ -3,7 +3,7 @@
 Info: In this Episode we will tell you "How to setup your Discord.js v13 Bot on ReplIt using Android phone".
 <br>
 <br>
-### 🔗 Websites we used:
+### Websites we used:
 <br>
 🔗 Replit.com - https://replit.com
 <br>
@@ -12,15 +12,10 @@ Info: In this Episode we will tell you "How to setup your Discord.js v13 Bot on 
 🔗 Github - https://github.com/Mr-warriyo/Discord.js-v13-MrWarriyo/
 <br>
 <br>
-### 🔗 Tutorial Video - (coming soon)
+### Tutorial Video - (coming soon)
 <br>
 <br>
-The main Code we used is provided in `index.js` file.
-<br>
-<br>
-```
-Don't Forget to Like, Subscribe and Share the vireo if it helps you 😉
-```
+Note: The main Code we used is provided in "index.js" file.
 <br>
 <br>
 😔😔 Having Errors??
